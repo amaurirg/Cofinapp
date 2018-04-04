@@ -1,0 +1,1 @@
+web: gunicorn cofinapp.wsgi --log-file -
